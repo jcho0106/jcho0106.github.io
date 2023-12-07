@@ -12,12 +12,9 @@ My GitHub page is http://github.com/jcho0106.
 
     Lab 4, part 2 was a favorite because it was the first lab that felt like we had created a game. I was able to use if and else statements for the first time to guess the secret number in the guessing game.
 
+* Lab 6
 
-* Lab 7
-
-    Lab 7, part 2 was a favorite because I have taken a few basic intro computer science classes in middle and highschool and Blackjack was always shown as the example but never actually taught. It was really cool to finally learn. I was able to learn how to write functions of Blackjack hand without the number of Aces dealt mattering.
-
-
+    Lab 6, part 2 was a favorite because I have taken a few basic intro computer science classes in middle and highschool and Blackjack was always shown as the example but never actually taught. It was really cool to finally learn. I was able to learn how to write functions of Blackjack that correctly follows the rules of Blackjack.
 
 * Lab 8
 
