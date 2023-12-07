@@ -11,14 +11,11 @@ My GitHub page is http://github.com/jcho0106.
 * Lab 4
 
     Lab 4, part 2 was a favorite because it was the first lab that felt like we had created a game. I was able to use if and else statements for the first time to guess the secret number in the guessing game.
-    https://github.com/cpsc-fall-2023/cpsc-120-lab-04-divine-and-jaeyoon
 
 * Lab 7
 
     Lab 7, part 2 was a favorite because it was cool to code something that is able to tell you if a parking spot was available or not. I was able to learn how to use command line arguments to properly code to know if the parking spot was available or not.
-    https://github.com/cpsc-fall-2023/cpsc-120-lab-07-arwin-jaeyoon
 
 * Lab 8
 
     Lab 8, part 1 was a favorite because this lab felt like a food ordering system and it was interesting. I was able to write argument functions to create a fun and functioning mad libs game.
-    https://github.com/cpsc-fall-2023/cpsc-120-lab-08-arwin-and-jaeyoon
